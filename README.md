@@ -1,2 +1,4 @@
-# git_pro
-gdfy
+main()
+{
+printf("hello");
+}
